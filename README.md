@@ -15,4 +15,11 @@ Before developing solutions and visualizing data related to the problem, I have 
 => Identify potential products and markets to focus on development. It is necessary to know the revenue and profit to see whether to promote a strong product to many markets orfinding outstanding products.
 - What is the goal of this dashboard?
 => Give an overview of the business situation. Focus index of increasing sales of the company by product, Region and Returns and Customer Satisfaction
-- 
+- Who is this data report for?
+=> The senior manager who is responsible for making strategic business decisions.
+- What is the purpose of the report? 
+=> The purpose of the report is to provide the senior manager with an overview of the business situation, including revenue and profit distribution, sales by product and region, returns, and customer satisfaction. The report should provide insights and recommendations for market expansion strategy and product selection
+- What is the desire of the viewer of the report? 
+=> The senior manager desires to see a comprehensive and data-driven view of the business situation to make informed decisions on market expansion and strategic product selection. The report should provide clear and actionable insights that will help the senior manager achieve their goals.
+# IV. Visualization in Power BI
+![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/959f7470-7481-4fef-b5d7-597f79be6c0a)
