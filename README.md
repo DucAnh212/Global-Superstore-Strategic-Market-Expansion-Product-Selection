@@ -28,22 +28,22 @@ Before developing solutions and visualizing data related to the problem, I have 
 ![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/042cd0ec-45ea-489f-b38e-10cdb86e2ed3)
 # V. Insight
 ## 1. General business situation
-1.1 In general, revenue tended to increase steadily from 2011 to the end of 2014 with a profit margin of 11.61%. In each year, revenue tends to increase steadily in all categories (category).
-1.2 However, in each year, revenue tended to increase steadily in all categories (category) until the fourth quarter and then fell sharply in the first quarter of the following year.
-1.3 The total profit YoY and revenue YoY are both reported as positive with 52.35% and 51.55% respectively, which means that the company or investment portfolio has experienced significant growth in both its profitability and revenue over the past year compared to the previous year.
-1.4 The Consumer group is the main revenue-generating group for the company (51%), followed by Corporate (30%) and Home Office. However, in recent years, revenue from other groups has been on a slightly upward trend. 
+- In general, revenue tended to increase steadily from 2011 to the end of 2014 with a profit margin of 11.61%. In each year, revenue tends to increase steadily in all categories (category).
+- However, in each year, revenue tended to increase steadily in all categories (category) until the fourth quarter and then fell sharply in the first quarter of the following year.
+- The total profit YoY and revenue YoY are both reported as positive with 52.35% and 51.55% respectively, which means that the company or investment portfolio has experienced significant growth in both its profitability and revenue over the past year compared to the previous year.
+- The Consumer group is the main revenue-generating group for the company (51%), followed by Corporate (30%) and Home Office. However, in recent years, revenue from other groups has been on a slightly upward trend. 
 ## 2. Market
-2.1 The top 3 main revenue-generating markets are APAC (3.59M), EU (2.94M ), and US (2.3M). The proportions between the three categories are evenly distributed in most markets, but Technology products still account for the largest proportion.
-2.2 The top 3 countries generating the highest revenue and profit are the United States, Australia and France, respectively. Worth the USA accounts for almost 3 times as much revenue as the 2nd countries.
+- The top 3 main revenue-generating markets are APAC (3.59M), EU (2.94M ), and US (2.3M). The proportions between the three categories are evenly distributed in most markets, but Technology products still account for the largest proportion.
+- The top 3 countries generating the highest revenue and profit are the United States, Australia and France, respectively. Worth the USA accounts for almost 3 times as much revenue as the 2nd countries.
 ## 3. Product
-3.1 Technology and Furniture have created significant revenue and profit when the Revenue of Furniture was just slightly lower than the revenue of Technology about 0.6M. Besides those categories, Office Supier has shown its potential in total orders from customers, although the revenue is lower than other categories.
-3.2 Top 5 sub-categories brought the biggest revenue: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcases (1.4M), and Storage (1.2M)
-3.3  The following Sub-Category products have the highest revenue:  Phones, Copiers, Chairs, Bookcases, Storage, and Appliances. However, the profit Margin of these sub-categories is not higher than other sub-categories. That creates not less revenue.
-3.4 Particularly, Tables is a product with a negative Profit Margin (8.46%) although the revenue is quite good (757K).
-3.5 Top 1 product that has the highest profit is Canon ImageCLASS 2200 Advanced Copier, especially since this product is created only in the USA in the top 10 countries by profit and revenue
+- Technology and Furniture have created significant revenue and profit when the Revenue of Furniture was just slightly lower than the revenue of Technology about 0.6M. Besides those categories, Office Supier has shown its potential in total orders from customers, although the revenue is lower than other categories.
+- Top 5 sub-categories brought the biggest revenue: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcases (1.4M), and Storage (1.2M)
+- The following Sub-Category products have the highest revenue:  Phones, Copiers, Chairs, Bookcases, Storage, and Appliances. However, the profit Margin of these sub-categories is not higher than other sub-categories. That creates not less revenue.
+- Particularly, Tables is a product with a negative Profit Margin (8.46%) although the revenue is quite good (757K).
+- The top 1 product that has the highest profit is Canon ImageCLASS 2200 Advanced Copier, especially since this product is created only in the USA in the top 10 countries by profit and revenue
 # VI. My Recommendation
-6.1 Research the reasons why sales often drop at the beginning of the year to find the right business development plan and why the table (sub-category)is a negative profit margin.
-6.2 Continue to consider expanding into the APAC, EU, and US markets.
-  In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture. Additionally, find out why Australia has the largest revenue in the APAC region but generates only the 3rd highest profit in the whole region.
-  In the EU market, focus on the United Kingdom and Germany and industries such as Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here. Specifically, develop subcategories such as binders, furnishings, and accessories to generate large profit margins with low revenue.
-6.4 Promote marketing activities in the 3rd and 4th quarters of each year, focusing on potential products with low sales but high profit margins, such as Accessories, Art, Papers, and Envelopes, in addition to the products that are already the strengths of the company such as Phones, Bookcases, Copiers, and Chairs.
+- Research the reasons why sales often drop at the beginning of the year to find the right business development plan and why the table (sub-category) has a negative profit margin.
+- Continue to consider expanding into the APAC, EU, and US markets.
+-   In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture. Additionally, find out why Australia has the largest revenue in the APAC region but generates only the 3rd highest profit in the whole region.
+- In the EU market, focus on the United Kingdom and Germany and industries such as Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here. Specifically, develop subcategories such as binders, furnishings, and accessories to generate large profit margins with low revenue.
+- Promote marketing activities in the 3rd and 4th quarters of each year, focusing on potential products with low sales but high profit margins, such as Accessories, Art, Papers, and Envelopes, in addition to the products that are already the strengths of the company such as Phones, Bookcases, Copiers, and Chairs.
