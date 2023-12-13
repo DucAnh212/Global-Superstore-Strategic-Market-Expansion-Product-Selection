@@ -2,9 +2,9 @@
 ## 1. Introduction
 Dataset stores sales information of some products of a company worldwide
 Includes 3 data tables:
-(+) Orders: fact order
-(+) People: information of salesperson
-(+) Returns: information on returned orders
+- Orders: fact order
+- People: information of salesperson
+- Returns: information on returned orders
 ## 2. Dictionary
 ![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/7f86e211-921a-467a-aec8-1a6c756ba0ce)
 # II. Requirement of the Project
