@@ -5,7 +5,7 @@ Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Da
       Orders: fact order
       People: information of salesperson
       Returns: information on returned orders
-2. Dictionary
+## 2. Dictionary
 ![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/7f86e211-921a-467a-aec8-1a6c756ba0ce)
 # II. Requirement of the Project
 The senior manager wants to see information about the business situation to make a market expansion strategy and decide on strategic product selection.
