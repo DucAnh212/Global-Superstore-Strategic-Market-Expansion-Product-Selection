@@ -1,1 +1,20 @@
-# Global-Superstore-Strategic-Market-Expansion-Product-Selection
+# Problem: The senior manager needs to analyze the Superstore Sales dataset to make data-driven market expansion and product selection decisions. The analysis will help determine if expanding into new markets is viable and which products will most likely succeed.
+# I. Dataset
+1. Introduction
+Dataset stores sales information of some products of a company worldwide
+Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Dataset xlxs" _can be downloaded from the above location)
+      Orders: fact order
+      People: information of salesperson
+      Returns: information on returned orders
+2. Dictionary
+![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/7f86e211-921a-467a-aec8-1a6c756ba0ce)
+
+# II. Requirement of the Project
+The senior manager wants to see information about the business situation to make a market expansion strategy and decide on strategic product selection.
+# III. Design Thinking Method
+Before developing solutions and visualizing data related to the problem, I have to undertake a deep understanding of the problem through the application of the five primary stages of the design thinking process.
+- What is the problem the stakeholder is solving? What difficulties are they having?
+=> Identify potential products and markets to focus on development. It is necessary to know the revenue and profit to see whether to promote a strong product to many markets orfinding outstanding products.
+- What is the goal of this dashboard?
+=> Give an overview of the business situation. Focus index of increasing sales of the company by product, Region and Returns and Customer Satisfaction
+- 
