@@ -1,6 +1,5 @@
-# Problem: The senior manager needs to analyze the Superstore Sales dataset to make data-driven market expansion and product selection decisions. The analysis will help determine if expanding into new markets is viable and which products will most likely succeed.
 # I. Dataset
-1. Introduction
+## 1. Introduction
 Dataset stores sales information of some products of a company worldwide
 Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Dataset xlxs" _can be downloaded from the above location)
       Orders: fact order
@@ -8,7 +7,6 @@ Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Da
       Returns: information on returned orders
 2. Dictionary
 ![image](https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection/assets/151928789/7f86e211-921a-467a-aec8-1a6c756ba0ce)
-
 # II. Requirement of the Project
 The senior manager wants to see information about the business situation to make a market expansion strategy and decide on strategic product selection.
 # III. Design Thinking Method
